@@ -44,3 +44,18 @@ scikit-learn-intelex
 xgboost
 #older version of nbconvert fail to convert notebooks to html
 nbconvert>=7.7.3
+
+# libraries for Gemini plugin 
+ipywidgets
+IPython
+google-genai
+markdown2 
+google-auth-oauthlib
+google-cloud-billing
+google-cloud-resource-manager
+google-cloud-aiplatform
+google-auth
+google-auth-httplib2
+pygments 
+vertexai 
+requests
