@@ -24,7 +24,6 @@ joblib
 patsy
 pymc3
 Cython
-pysam
 --no-binary=pysam
 python-dateutil
 pytz==2023.3
