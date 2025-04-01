@@ -10,9 +10,7 @@ google-cloud-resource-manager
 statsmodels
 ggplot
 bokeh
-pyfasta
 pdoc3
-biopython
 bx-python
 fastinterval
 matplotlib-venn
