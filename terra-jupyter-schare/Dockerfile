@@ -42,7 +42,7 @@ RUN pip3 -V \
 
 RUN pip3 install --upgrade markupsafe==2.1.2
 
-ENV USER jupyter
+ENV USER=jupyter
 USER $USER
 # We want pip to install into the user's dir when the notebook is running.
 ENV PIP_USER=true
